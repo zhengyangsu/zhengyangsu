@@ -13,9 +13,9 @@ Look development and texture artist in film VFX. I make CG assets with Mari, Sub
 
 - [**Substance Painter Custom Map Exporter**](https://github.com/zhengyangsu/Substance_customExporter): plugin for batch-exporting texture sets and UDIMs. JavaScript, QML.
 - [**Computer Vision Project Overview**](https://github.com/zhengyangsu/Computer-Vision-Project-Overview): team ML project detecting cyclist hand signals (8 classes, 7,000+ image Roboflow dataset).
-- [**Robot Simulation**](https://github.com/zhengyangsu/Simulation01): robots, hunters and energy management driven by state machines. Java.
+- [**Autonomous Simulation**](https://github.com/zhengyangsu/Simulation01): robots, hunters and energy management driven by state machines. Java.
 - [**Course Planner**](https://github.com/zhengyangsu/coursePlanner): browse course data from CSV with enrollment histograms. Java.
-- [**Burger Simulation**](https://github.com/zhengyangsu/burger-simulation): interactive burger-making game. Java.
+- [**Interactive Simulation**](https://github.com/zhengyangsu/burger-simulation): interactive burger-making game. Java.
 - [**Maze Game**](https://github.com/zhengyangsu/mazeGame): maze game with separate logic and UI packages. Java.
 
 ## Elsewhere
