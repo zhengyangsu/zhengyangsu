@@ -12,7 +12,7 @@ Look development and texture artist in film VFX. I make CG assets with Mari, Sub
 ## Featured projects
 
 - [**Painter Map Exporter**](https://github.com/zhengyangsu/Substance_customExporter): plugin for batch-exporting texture sets and UDIMs. JavaScript, QML.
-- [**NLP Project**](https://github.com/zhengyangsu/Natural-Language-Processing)): Latin → English translation with QLoRA on a 3B Llama model, evaluated with BLEU and chrF.
+- [**NLP Project**](https://github.com/zhengyangsu/Natural-Language-Processing): Latin → English translation with QLoRA on a 3B Llama model, evaluated with BLEU and chrF.
 - [**Computer Vision Project**](https://github.com/zhengyangsu/Computer-Vision-Project-Overview): ML project detecting cyclist hand signals (8 classes, 7,000+ image Roboflow dataset).
 - [**Autonomous Simulation**](https://github.com/zhengyangsu/Simulation01): robots, hunters and energy management driven by state machines. Java.
 - [**Interactive Simulation**](https://github.com/zhengyangsu/burger-simulation): interactive burger-making game. Java.
